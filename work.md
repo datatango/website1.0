@@ -60,6 +60,7 @@ title: work
 <h4>presentations</h4>
 <br>
 
+| 2025 | _L.A. Confidential: Inside Digital Preservation at Getty Digital_ | DPC-Getty Digital Preservation Southern California Convening |
 | 2025 | _SEAFILM: Reframing Access to Southeast Asian Cinema with IIIF_ | International Image Interoperability Framework (IIIF) Annual Conference 2025, Leeds, United Kingdom |
 | 2025 | _A Click in Time: Approaches to Web Archiving at Getty Digital_ | Getty Digital Share 2025, Los Angeles, USA |
 | 2024 | _The Great Migration: Planning & Performing Media Migrations for Audiovisual Collections_ | FIAT/IFTA World Conference 2024, Bucharest, Romania |
