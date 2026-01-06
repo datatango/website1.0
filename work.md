@@ -8,7 +8,7 @@ title: work
 
 | University of Chicago | Digital Preservation Specialist | 7/2025 - present |
 | City University of New York Television (CUNY TV) | Media Preservation Technician | 6/2024 - 8/2024 |
-| Asian Film Archive | Archive Officer | 1/2017 - 8/2022 |
+| Asian Film Archive | Archive Officer & Systems Administrator | 1/2017 - 8/2022 |
 
 <br>
 <h4>fellowships</h4>
@@ -93,7 +93,7 @@ title: work
 | 2023 | [_Oliver Wendell Holmes Travel Award: Matthew Yang_](https://www2.archivists.org/recipients/oliver-wendell-holmes-travel-award-matthew-yang){:target="\_ blank"} | Society of American Archivists |
 | 2022 | [_Communal Projections for Home Movie Networks in Singapore_](https://www.sinema.sg/2022/11/03/communal-projections-for-home-movie-networks-in-singapore/){:target="\_ blank"} | Sasha Han,<br> Sinema |
 
-<br>
+<!-- <br>
 <h4>awards, grants & scholarships</h4>
 <br>
 
@@ -115,7 +115,7 @@ title: work
 | 2018 | Dean's List - College of Humanities, Arts, and Social Sciences | Nanyang Technological University |
 | 2012 2011 2010 | Director's List - School of Film & Media Studies | Ngee Ann Polytechnic |
 
-<br>
+<br> -->
 
 <!-- <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
