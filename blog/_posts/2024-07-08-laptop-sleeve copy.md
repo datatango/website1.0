@@ -16,16 +16,16 @@ My long overdue project to make a new laptop sleeve is finally complete. It was 
 
 On to the next chapter!
 
-![busted_sleeve]({{ site.url }}/assets/originals/laptop/1.jpg)
+![busted_sleeve]({{ site.url }}{{ site.baseurl }}/assets/originals/laptop/1.jpg)
 
-![fin_working]({{ site.url }}/assets/originals/laptop/2.jpg)
+![fin_working]({{ site.url }}{{ site.baseurl }}/assets/originals/laptop/2.jpg)
 
-![mist]({{ site.url }}/assets/originals/laptop/3.jpg)
+![mist]({{ site.url }}{{ site.baseurl }}/assets/originals/laptop/3.jpg)
 
-![practice]({{ site.url }}/assets/originals/laptop/4.jpg)
+![practice]({{ site.url }}{{ site.baseurl }}/assets/originals/laptop/4.jpg)
 
-![sleeve_in_progress]({{ site.url }}/assets/originals/laptop/5.jpg)
+![sleeve_in_progress]({{ site.url }}{{ site.baseurl }}/assets/originals/laptop/5.jpg)
 
-![finished_sleeve]({{ site.url }}/assets/originals/laptop/6.jpg)
+![finished_sleeve]({{ site.url }}{{ site.baseurl }}/assets/originals/laptop/6.jpg)
 
-![button_detail]({{ site.url }}/assets/originals/laptop/7.jpg)
+![button_detail]({{ site.url }}{{ site.baseurl }}/assets/originals/laptop/7.jpg)

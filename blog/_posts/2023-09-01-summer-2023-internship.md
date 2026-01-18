@@ -12,7 +12,7 @@ image:
   feature:
 ---
 
-![prelinger]({{ site.url }}/assets/originals/summer/matt_bavc.jpeg)
+![prelinger]({{ site.url }}{{ site.baseurl }}/assets/originals/summer/matt_bavc.jpeg)
 
 During the summer, I had the great opportunity to work in the preservation department at the Bay Area Video Coalition (BAVC) under the guidance of Kelley Coyne and Tim Lake. My main responsibility was digitizing VHS tapes for the Mission Cultural Center for Latino Arts as part of BAVC's Preservation Access Program (PAP). This program offers affordable preservation services to individuals and smaller organizations with analog audiovisual collections.
 
@@ -22,7 +22,7 @@ In addition to hands-on experience, I also got to work with essential software t
 
 Overall, this internship experience has solidified the concepts I learned from the program, and I am excited to delve deeper into video preservation through the Video Preservation course in the upcoming fall semester.
 
-![prelinger]({{ site.url }}/assets/originals/summer/matt_prelinger.jpeg)
+![prelinger]({{ site.url }}{{ site.baseurl }}/assets/originals/summer/matt_prelinger.jpeg)
 
 I had the incredible opportunity of doing my summer internship at the Prelinger Archives where I was involved in its ongoing digitization project funded by the Filecoin Foundation. The three-year grant funded project is a collaboration between the Prelinger Archives and the Filecoin Foundation to preserve and create broad access to rare home movies, newsreels, educational, and sponsored films from the Prelinger collection. Throughout the nine-weeks I got to learn its unique digitization workflow from film preparation to creating culturally responsive metadata.
 

@@ -14,7 +14,7 @@ image:
 
 Here are two simple and fun tools to browse the web with the terminal!
 
-![lynx]({{ site.url }}/assets/originals/lynx/lynx.png)
+![lynx]({{ site.url }}{{ site.baseurl }}/assets/originals/lynx/lynx.png)
 
 ```bash
 sudo apt install lynx

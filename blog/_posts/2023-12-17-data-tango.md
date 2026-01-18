@@ -12,7 +12,7 @@ image:
   feature:
 ---
 
-![restic]({{ site.url }}/assets/originals/file_utility/restic.gif)
+![restic]({{ site.url }}{{ site.baseurl }}/assets/originals/file_utility/restic.gif)
 
 What is restic?
 

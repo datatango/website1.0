@@ -26,6 +26,6 @@ Search 'Manage App Execution Aliases' in the Windows search bar.
 
 ### Step 2: Toggle off 'python.exe' & 'python3.exe'
 
-![cuny_4]({{ site.url }}/assets/originals/alias/alias.png)
+![cuny_4]({{ site.url }}{{ site.baseurl }}/assets/originals/alias/alias.png)
 
 A further step is to put '%USERPROFILE%\AppData\Local\Microsoft\WindowsApps' lower in the pecking order in Environment Variables.

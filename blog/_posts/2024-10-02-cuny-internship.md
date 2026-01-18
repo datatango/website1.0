@@ -12,15 +12,15 @@ image:
   feature:
 ---
 
-![cuny_1]({{ site.url }}/assets/originals/cuny/1.jpg)
+![cuny_1]({{ site.url }}{{ site.baseurl }}/assets/originals/cuny/1.jpg)
 
-![cuny_2]({{ site.url }}/assets/originals/cuny/2.jpg)
+![cuny_2]({{ site.url }}{{ site.baseurl }}/assets/originals/cuny/2.jpg)
 
-![cuny_3]({{ site.url }}/assets/originals/cuny/3.jpg)
+![cuny_3]({{ site.url }}{{ site.baseurl }}/assets/originals/cuny/3.jpg)
 
-![cuny_4]({{ site.url }}/assets/originals/cuny/4.jpg)
+![cuny_4]({{ site.url }}{{ site.baseurl }}/assets/originals/cuny/4.jpg)
 
-![cuny_5]({{ site.url }}/assets/originals/cuny/5.jpg)
+![cuny_5]({{ site.url }}{{ site.baseurl }}/assets/originals/cuny/5.jpg)
 
 What better way to conclude graduate school than to finish an internship at CUNY TV? Graduate school was always in my plans, but New York was never really in the picture because it just seemed beyond financial reach. But amongst other things, reading Annie Schweikert's & Dave Rice's IASA journal paper, [_Microservices in Audiovisual Archives: An Exploration of Constructing Microservices for Processing Archival Audiovisual Information_](https://journal.iasa-web.org/index.php/pubs/article/view/70){:target="\_ blank"}, made the decision for me.
 

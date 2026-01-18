@@ -12,11 +12,11 @@ image:
   feature:
 ---
 
-![ofs_3.0]({{ site.url }}/assets/originals/ofs/ofs_4.1.gif)
+![ofs_3.0]({{ site.url }}{{ site.baseurl }}/assets/originals/ofs/ofs_4.1.gif)
 
-![ofs_2.0]({{ site.url }}/assets/originals/ofs/ofs.png)
+![ofs_2.0]({{ site.url }}{{ site.baseurl }}/assets/originals/ofs/ofs.png)
 
-![ofs_mockup]({{ site.url }}/assets/originals/ofs/mock_up.png)
+![ofs_mockup]({{ site.url }}{{ site.baseurl }}/assets/originals/ofs/mock_up.png)
 
 [Orphans Film Symposium 2024](https://wp.nyu.edu/orphanfilm/){:target="\_ blank"} is around the corner and I had the wonderful opportunity to assist Professor Dan Streible to create a [landing site](https://wp.nyu.edu/orphans2024/){:target="\_ blank"} for the symposium.
 
